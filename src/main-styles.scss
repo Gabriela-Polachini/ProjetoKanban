@@ -1,0 +1,20 @@
+// global styles e  variáveis de mudança do bulma 
+// Bulma é um framework CSS que facilita a criação de designs responsivos 
+// e estilizados para sites e aplicativos web. Ele é baseado em Flexbox e 
+// oferece uma variedade de componentes pré-construídos. O Bulma é escrito 
+// em SCSS (Sassy CSS), uma extensão do CSS que traz recursos adicionais 
+// como variáveis e mixins para facilitar a estilização e a manutenção do código.
+
+//Atualização de algumas das variáveis de componentes do Bulma.
+$control-border-width: 2px;
+$input-border-color: transparent;
+$input-shadow: none;
+
+/* GLOBAL STYLES */
+html, body {
+    height: 100%;
+} 
+
+html {
+    background-image: linear-gradient( to left,rgb(96, 96, 190), rgb(45, 45, 156), rgb(6, 6, 73),);
+}
